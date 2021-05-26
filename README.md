@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am 𝓐𝓷𝓲𝓴𝓮𝓽 𝓜. 𝓦𝓪𝔃𝓪𝓻𝓴𝓪𝓻](http://aniketwazarkar.unaux.com/)
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am 𝒜𝓃𝒾𝓀𝑒𝓉 𝑀. 𝒲𝒶𝓏𝒶𝓇𝓀𝒶𝓇](http://aniketwazarkar.unaux.com/)
 <p align = "left">
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -7,6 +7,8 @@
 [<img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][Medium]
 [<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
 [<img height="30" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />][Blogger]
+[<img height="30" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />][Website]
+
 </p>
 
 ![alt text](https://github.com/aniketspeaks/aniketspeaks/blob/main/Black%20Technology%20LinkedIn%20Banner%20(1).png)
@@ -87,5 +89,6 @@
 [Medium]: https://medium.com/@aniketwazarkar5
 [Facebook]: https://www.facebook.com/aniketspeaks
 [Blogger]: https://tech-valley1.blogspot.com/
+[Website]: 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
