@@ -44,7 +44,7 @@
 </p>
 
 ### IDE 
-<p align = "left">
+<p >
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS code" height="40"/> 
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="pycharm" height="40"/> 
 <img src="https://github.com/aniketspeaks/aniketspeaks/blob/main/spyder_logo.png" alt="Spyder" height="40"/> 
