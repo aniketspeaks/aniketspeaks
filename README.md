@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Aniket M. Wazarkar](http://aniketwazarkar.unaux.com/)
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am 𝓐𝓷𝓲𝓴𝓮𝓽 𝓜. 𝓦𝓪𝔃𝓪𝓻𝓴𝓪𝓻](http://aniketwazarkar.unaux.com/)
 <p align = "left">
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -15,9 +15,9 @@
 ### My Tech Toolbox 🧰
 ### Programming Languages
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="40"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="40"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40"/>  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="40"/>  
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="java" height="40"/>  
 </p>
