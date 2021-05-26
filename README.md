@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom" height="40"/> 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" height="40"/> 
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime" height="40"/> 
-<img src="https://www.researchgate.net/publication/342263126/figure/fig1/AS:903795139698690@1592492961701/Python-in-Spyder-environment-Figure-2-R-Studio-for-KNN-classification.png" alt="ide/spyder/master/img_src/spyder_readme_banner.png" height="40"/> 
+<img src="https://www.rezourze.com/rz-storage/2020/09/Spyder-Python-IDE-Text-Editor-Python-Editor-Python-Resource.jpg" height="40"/> 
 
 </p>
 
