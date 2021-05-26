@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom" height="40"/> 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" height="40"/> 
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime" height="40"/> 
-<img src="https://www.rezourze.com/rz-storage/2020/09/Spyder-Python-IDE-Text-Editor-Python-Editor-Python-Resource.jpg" height="40"/> 
+<img src="https://www.spyder-ide.org/static/images/spyder_logo.png?h=5c3a431e" alt="Spyder" height="40"/> 
 
 </p>
 
